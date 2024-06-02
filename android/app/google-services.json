@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26868767962",
+    "project_id": "berfin-app",
+    "storage_bucket": "berfin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26868767962:android:65310f92615a01be24d9e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+
+        {
+          "client_id": "26868767962-d3ali5epoth3art72h6c6dpp9d7mrfia.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "26868767962-uiq0bmcc24sl0i5ush0ip1p7v5v2tmvq.apps.googleusercontent.com",
+          "client_type": 1
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY7pHKFZIAIBDvVs7TJzaMHkh1527PJ3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
