@@ -1,0 +1,1 @@
+ C:\\Users\\berfin\\New\ folder\\flutter_application_1\\.dart_tool\\flutter_build\\a47ea8768caaf195e532f3885c19719b\\native_assets.yaml: 
